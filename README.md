@@ -73,5 +73,5 @@ All visual designs and interactivity have been achieved using styles.css for sty
 ## Screenshot
 ![](./screenshot-home.png)
 ## Links
-- Repository URL: https://github.com/TSumedha/Portfolio
-- Live Site URL: https://<username>.github.io/<repository-name>/
+- Repository URL: https://github.com/TSumedha/CFGWebDevChallenge/Portfolio
+- Live Site URL: https://TSumedha.github.io/CFGWebDevChallenge/Portfolio/
