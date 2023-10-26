@@ -28,13 +28,13 @@ Nice to haves:
 [Sumedha Tiwari](https://github.com/TSumedha)
 
 
-##Project Title:
-Your Project Name
+## Project Title:
+### Web Portfolio: Josh Halliday 
 
-##Description:
+## Description:
 This project showcases an elegant website equipped with various features to enhance user experience. One of the highlights is the utilization of a hamburger menu. This iconic design element offers a compact way to present navigation options, especially beneficial for mobile or responsive designs.
 
-##Features:
+## Features:
 
 1.Homepage (index.html): A landing page that greets visitors with an overview, along with call-to-action buttons like downloading the CV or making contact.
 
@@ -50,13 +50,13 @@ This project showcases an elegant website equipped with various features to enha
 
 7.Footer: Every page concludes with a structured footer offering quick links, contact information, and copyright acknowledgments.
 
-##Responsiveness
+## Responsiveness
 Built with a mobile-first approach, the website delivers a consistent and engaging user experience across devices – be it mobile, tablet, or desktop.
 
-##Styling and Interactivity
+## Styling and Interactivity
 All visual designs and interactivity have been achieved using styles.css for styling and script.js for JavaScript-based functionalities.
 
-##The website's JavaScript accomplishes the following:
+## The website's JavaScript accomplishes the following:
 
 1. Navigation Control:
 - A toggleable hamburger menu to show or hide the sidebar navigation.
@@ -70,8 +70,6 @@ All visual designs and interactivity have been achieved using styles.css for sty
  submission.
 -Provides an acknowledgment message upon successful form completion.
 
-## Screenshot
-![](./screenshot-home.png)
 ## Links
-- Repository URL: https://github.com/TSumedha/CFGWebDevChallenge/Portfolio
-- Live Site URL: https://TSumedha.github.io/CFGWebDevChallenge/Portfolio/
+- Repository URL:https://github.com/TSumedha/CFGWebDevChallenge/
+- Live Site URL: https://TSumedha.github.io/CFGWebDevChallenge/
