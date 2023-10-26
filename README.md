@@ -72,4 +72,4 @@ All visual designs and interactivity have been achieved using styles.css for sty
 
 ## Links
 - Repository URL:https://github.com/TSumedha/CFGWebDevChallenge/
-- Live Site URL: https:// tsumedha.github.io/CFGWebDevChallenge/Portfolio
+- Live Site URL: https://tsumedha.github.io/CFGWebDevChallenge/Portfolio
